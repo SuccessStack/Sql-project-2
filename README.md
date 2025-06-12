@@ -1,4 +1,4 @@
-## ⚡ **Electric Vehicles Data Analysis | SQL Project**
+## ⚡ **Electric Vehicles Data Analysis | MYSQL Project**
 
 Welcome to the **Electric Vehicles (EV) SQL Data Analysis Project**! This project leverages structured queries to analyze EV performance metrics, efficiency, pricing, and manufacturer trends. The goal is to derive insights from raw data that can inform decisions in manufacturing, marketing, and consumer choice.
 
